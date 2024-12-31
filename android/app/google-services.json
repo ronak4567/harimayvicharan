@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "160260846508",
+    "project_id": "harimay-vicharan-faax1m",
+    "storage_bucket": "harimay-vicharan-faax1m.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160260846508:android:cc442bc2453e833ac2c009",
+        "android_client_info": {
+          "package_name": "com.app.harimayvicharan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD32Yi0ksb_iv9XEiBhC7gW2t9YHrfxyGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
